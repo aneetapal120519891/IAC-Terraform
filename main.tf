@@ -15,3 +15,8 @@ resource "azurerm_resource_group" "examplesunil" {
   name     = "example-resourcessunil"
   location = "West Europe"
 }
+
+resource "azurerm_resource_group" "examplesunil1" {
+  name     = "example-resourcessunil1"
+  location = "West Europe"
+}
